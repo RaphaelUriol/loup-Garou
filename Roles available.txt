@@ -1,0 +1,44 @@
+Roles for a Game:
+
+Order of the roles: 
+# 1 Zombie villager
+# 2 Cartographer (Minion)
+# 3 Freemason 
+# 4 Librarian (Seer)
+# 5 Fisherman (Robber)
+# 6 Cleric (TroubleMaker)
+# 7 Toolsmith 
+# 8 Farmer (drunk man)
+# 9 Fletcher (insomniac)
+
+Villager : The villager is the basic role in the game, he has no power and do nothing but voting at the end of a day.
+
+Librarian (Seer ):  the librarian wakes up once a night, he has the possibility to see one of the cards of the other players. Or 2 cards from the center.
+
+Zombie villager (werewolf): During the day, the zombie villagers take on the appearance of normal villagers. At night, however, they wake up together and see each other, if the zombie villager is alone he can watch a card in the center.
+
+Freemason  : The Freemason  are always 2 in the game, they wake up and learn about their comrade, they know they are allies for the rest of the game.
+
+Cleric (TroubleMaker) : At night, the Cleric may switch the cards of two other players without looking at those.
+
+Farmer (drunk man): The Drunk is so drunk that he doesn't remember his role. When it comes time to wake up at night, exchange his Drunk card for any card in the center, but he does not look at it.
+
+Leatherworker (Hunter) :If the Leatherworker dies, the player he is pointing at dies as well (regardless of how many votes his target receives).
+
+Shepherd (tanner) : The Shepherd hates his job so much that he wants to die. The Shepherd only wins if he dies. If the Shepherd dies and no zombie villagers die, the zombie villagers do not win.
+
+Fletcher (insomniac): The Fletcher wakes up and looks at her card (to see if it has changed). Only use the Fletcher if the Robber and/or the Cleric are in the game.
+
+Fisherman (Robber) : At night, the Fisherman may choose to rob a card from another player and place his Fisherman card where the other card was. Then the Fisherman looks at his new card. The player who receives the Fisherman card is on the village team. The Fisherman is on the team of the card he takes, however, he does not do the action of his new role at night.
+If the Fisherman chooses not to rob a card from another player, he remains the Fisherman and is on the village team.
+Cartographer (Minion) :  Immediately following the zombie villagers phase at night, the Cartographer wakes up and sees who the zombie villagers are.
+During this phase, all zombie villagers put their thumbs up so the Cartographer can see who they are. The zombie villagers don't know who the Cartographer is. If the Minion dies and no zombie villagers die, the zombie villagers (and the Cartographer ) win.
+If no players are zombie villagers, the Cartographer wins as long as one other player (not the Cartographer ) dies. This role can be a very powerful ally for the werewolf team. This Cartographer is on the zombie villagers team.
+
+MORE
+
+Armorer: when the vote comes, the personne that the armorer votes is protected, the second one with the more vote dies, if no one has votes no one dies (villagers wins).
+
+Dreaming zombie : When Zombies woke up to see each other, he doesn’t but he is is a zombie. He put thumb up for the minion. 
+
+Toolsmith : The toosmith Woke up at night, every person that changes a card before that puts his thumb up. 

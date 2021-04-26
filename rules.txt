@@ -1,0 +1,10 @@
+Basic setup is for 3-5 players, but you can add more players and complexity by simply including more role cards into the game.
+Shuffle the role cards and deal 1 card to each player. 
+There will be the 3 remaining role cards in the middle of the play area, face down.
+Night phase exemples :
+The game is divided into two stages. A night phase and a day phase. Roles are called upon to perform their special action during one of these phases. Some roles have no actions. It’s possible there are no Zombie Villagers, as they both could be in the center for examples.
+Day phase exemples :
+Players may now communicate but they can never show their role cards and they can not look at their own role cards. Players may not be aware that their role has changed during the night, if it has, then that player is unknowingly of that role and on that team.
+After some discussion, everyone  will have to vote for who might be the Zombie
+The player with the most votes is executed. If no player receives more than 1 vote, then no one is executed.
+All executed players reveal their cards.
